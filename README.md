@@ -12,3 +12,7 @@ This Project Is Maintained By Me: @leetxhacker<br>It's An Simple Moderation Bot 
 
 # Developers
 - LeeTxHacker
+
+# Over-View
+![image](https://user-images.githubusercontent.com/118864942/224768815-d5a04f86-2c37-4b4e-ac12-0fb41bba9e88.png)
+Help Command
